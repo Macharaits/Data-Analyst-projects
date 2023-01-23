@@ -1,5 +1,7 @@
 # Создание дашборда по пользовательским событиям для агрегатора новостей
 [Дашборд](https://public.tableau.com/app/profile/raits.maria/viz/Project_Raits_Maria/event_by_card_1?publish=yes)
+
+
 [Презентация](https://disk.yandex.ru/i/pmFuP-tolMSZ0g)
 # Задача:
 Используя данные Яндекс.Дзена построить дашборд с метриками взаимодействия пользователей с карточками статей
